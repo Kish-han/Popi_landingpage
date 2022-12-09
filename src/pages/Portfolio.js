@@ -11,7 +11,7 @@ import Image8 from '../img/portfolio/8.jpg';
 import Image9 from '../img/portfolio/9.jpg';
 
 // import link
-import { Link } from 'react-router-dom';
+// import { Link } from 'react-router-dom';
 // import motion
 import { motion } from 'framer-motion';
 // import transition

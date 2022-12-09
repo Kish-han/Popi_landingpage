@@ -2,7 +2,7 @@ import React, { useContext } from 'react';
 // import images
 import WomanImg from '../img/home/women.png';
 // import link
-import { Link } from 'react-router-dom';
+// import { Link } from 'react-router-dom';
 // import motion
 import { motion } from 'framer-motion';
 // import transition

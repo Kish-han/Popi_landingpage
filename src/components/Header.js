@@ -1,8 +1,8 @@
 import React, { useContext } from 'react';
 // import components
-import Socials from './Socials';
+// import Socials from './Socials';
 import Logo from '../img/header/LOGO.png';
-import MobileNav from './MobileNav';
+// import MobileNav from './MobileNav';
 // import link
 import { Link } from 'react-router-dom';
 // import cursor context
@@ -56,9 +56,9 @@ const Header = () => {
         </nav>
       </div>
       {/* socials */}
-      <Socials />
+      {/* <Socials /> */}
       {/* mobile nav */}
-      <MobileNav />
+      {/* <MobileNav /> */}
     </header>
   );
 };

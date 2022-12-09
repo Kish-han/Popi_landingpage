@@ -1,6 +1,6 @@
 import React, { useContext } from 'react';
 // import images
-import WomanImg from '../img/contact/woman.png';
+// import WomanImg from '../img/contact/woman.png';
 import Image1 from '../img/contact/A1.jpg';
 import Image2 from '../img/contact/A2.jpg';
 import Image3 from '../img/contact/A3.jpg';

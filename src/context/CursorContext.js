@@ -30,7 +30,7 @@ const CursorProvider = ({ children }) => {
     } else {
       setCursorBG('none');
     }
-  });
+  },[mobileViewportIsActive]);
 
   // cursor variants
   const cursorVariants = {
